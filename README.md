@@ -56,16 +56,40 @@ A digital ticketing solution built on ServiceNow to automate metro ticket bookin
 
 ```text
 ServiceNow-Projects/
+│   README.md
 │
-├── README.md
-├── Automated Network Request Management/
-│   ├── Documentation/
-│   ├── Screenshots/
-│   └── README.md
+├───Automated Network Request Management
+│   │   README.md
+│   │
+│   ├───Final Project Report
+│   │
+│   ├───Phase 1 - Requirement Analysis and Planning
+│   │
+│   ├───Phase 2 - Backend Development and Configurations
+│   │
+│   ├───Phase 3 - UI_UX Development
+│   │
+│   ├───Phase 4 - Data Migration and Testing
+│   │
+│   └───Phase 5 - Deployment
 │
-└── Metro Ticket Generating System/
-    ├── Document/
-    └── README.md
+├───Metro Ticket Generating System
+│   │   README.md
+│   │
+│   ├───Final Report
+│   │
+│   ├───Phase 1 - Requirement Analysis and Planning
+│   │
+│   ├───Phase 2 - Backend Development and Configurations
+│   │
+│   ├───Phase 3 - UI_UX Development
+│   │
+│   ├───Phase 4 - Data Migration and Testing
+│   │
+│   └───Phase 5 -Deployment and Documentation
+│   
+└───Proof of Courses Completion
+
 ```
 
 
